@@ -1,6 +1,6 @@
 ---
 name: writing-html-design-doc
-description: Use after brainstorming spec is approved, before writing-plans, when a visual browser-openable design artifact is needed for human review
+description: Use after brainstorming spec is approved, before writing-plans — always, for every project that went through brainstorming
 ---
 
 # Writing HTML Design Doc
@@ -12,11 +12,6 @@ Generate a self-contained HTML design document with inline SVG diagrams from the
 **Announce at start:** "I'm using the `writing-html-design-doc` skill to create the visual design document."
 
 **Save to:** `docs/superpowers/designs/YYYY-MM-DD-<feature-name>-design.html`
-
-## When NOT to Use
-
-- Trivial changes (config updates, single-line fixes) with no meaningful architecture to diagram
-- Projects with no components to visualize (single-function scripts, pure data files)
 
 ## Process
 
